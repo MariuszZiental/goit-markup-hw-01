@@ -1,0 +1,13 @@
+p {
+  color: green;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+nav-list {
+  flex: 1;
+  list-style: none;
+}
+contact-list {
+  flex: 1;
+}
